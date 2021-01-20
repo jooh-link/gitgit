@@ -25,4 +25,8 @@ input, a, button {
 body {
   background: thistle; }
 
+header {
+  display: flex;
+  justify-content: space-between; }
+
 /*# sourceMappingURL=style.css.map */
