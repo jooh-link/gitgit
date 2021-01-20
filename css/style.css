@@ -34,4 +34,9 @@ section {
   height: 300px;
   background: khaki; }
 
+footer {
+  width: 100%;
+  height: 100px;
+  background: lightslategrey; }
+
 /*# sourceMappingURL=style.css.map */
